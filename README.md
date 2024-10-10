@@ -54,10 +54,10 @@ To run this project, you need to have the following tools installed on your syst
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/playstore-data-analysis.git
+   git clone https://github.com/shubhy04/Playstore-Data-Analysis.git
 
 2. **Data Setup**:
-- Upload the Playstore dataset (`playstore_data.csv`) to Databricks.
+- Upload the Playstore dataset (`googleplaystore.csv`) to Databricks.
 - Use PySpark within Databricks to clean and process the dataset.
 
 3. **Run the Analysis**:
@@ -76,4 +76,9 @@ As this project is ongoing, the following tasks and enhancements are planned:
 - Enhancing visualizations to include interactive charts for more dynamic exploration of the data.
 - Developing predictive models to forecast app performance based on historical data.
 
+## Contact
+For any questions or feedback, feel free to contact:
+- **Name**: Shubham Sawant
+- **Email**: [sawantshubham861@gmail.com](mailto:sawantshubham861@gmail.com)
+- **LinkedIn**: [linkedin.com/in/shubhy04](https://linkedin.com/in/shubhy04)
 
